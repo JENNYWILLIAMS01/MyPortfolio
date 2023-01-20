@@ -122,3 +122,14 @@ h2{
     padding: 3% 2%;
     font-size: 1.4rem;
 }
+
+
+@media (max-width: 600px){
+    .intro h1{
+        font-size: 2rem;
+        margin-bottom:30px;
+    }
+    .intro p{
+        font-size: 1rem;
+    }
+}
